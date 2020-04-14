@@ -1,0 +1,8 @@
+# exe file
+*.exe
+# ilk file
+*.ilk
+# Object file
+*.obj
+# PDB file
+*.pdb
